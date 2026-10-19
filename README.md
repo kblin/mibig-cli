@@ -81,3 +81,8 @@ go test ./...
 # check the editor's view of every entry of a release
 MIBIG_DATA=/path/to/mibig-json go test ./internal/tree -run Dataset
 ```
+
+License
+-------
+This project is licensed under the Apache License 2.0.
+See the [`LICENSE`](LICENSE) file for details.
